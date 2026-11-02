@@ -29,14 +29,14 @@
     "microclimat": {
       "nom": "Logiciel Microclimat",
       "produit": "Logiciel Microclimat Urbain",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "date": "2026-11-02",
-      "titre": "Projet .T30 : tout le projet dans un seul fichier",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.2.0",
+      "titre": "Moteur installable sur un poste sans Python",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.2.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.0/Installer-Logiciel-Microclimat-Urbain-1.2.0.exe",
-        "sha256": "90d18501468895ab170406c0bdd653cecb97de65fa02909be1fd65a51e99eef2",
-        "taille": 121890598
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.1/Installer-Logiciel-Microclimat-Urbain-1.2.1.exe",
+        "sha256": "7800eb0ab3dacce250a06259a3b3b45cb9ec1aaaa9c5e8490b2406519e4c297f",
+        "taille": 121891437
       }
     },
     "inex-soft": {
@@ -53,5 +53,5 @@
       }
     }
   },
-  "maj": "2026-11-02T12:33:47.803Z"
+  "maj": "2026-11-02T13:18:14.564Z"
 }
