@@ -3,55 +3,55 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.9.1",
-      "date": "2026-11-01",
-      "titre": "Nouveau logo",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.9.1",
+      "version": "1.10.0",
+      "date": "2026-11-02",
+      "titre": "Projet .T30 : saisie et résultats dans un seul fichier",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.10.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.9.1/Installer-Logiciel-CFD-OpenFOAM-1.9.1.exe",
-        "sha256": "f8c1b425ad2f68fcdddd59f450daf655f91e865a260ab4862e094c14b1fe7705",
-        "taille": 126244793
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.10.0/Installer-Logiciel-CFD-OpenFOAM-1.10.0.exe",
+        "sha256": "89764de234ada9b42cc0c3771c9fb73da2bfae5e7348ef4fa80b05d384c42721",
+        "taille": 126249110
       }
     },
     "std": {
       "nom": "Logiciel STD INEX",
       "produit": "Logiciel STD EnergyPlus",
-      "version": "1.0.1",
-      "date": "2026-11-01",
+      "version": "1.1.0",
+      "date": "2026-11-02",
       "titre": "",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.0.1",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.1.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.0.1/Installer-Logiciel-STD-EnergyPlus-1.0.1.exe",
-        "sha256": "f09fc1a076a08942adc9870554445ecdb1e3567aaae17b2562783485b8a040ff",
-        "taille": 122702021
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.1.0/Installer-Logiciel-STD-EnergyPlus-1.1.0.exe",
+        "sha256": "92faafab56dcf15705e2fa975f78c073d6b4af54fefc4d86ffab70a7cc34f183",
+        "taille": 122705524
       }
     },
     "microclimat": {
       "nom": "Logiciel Microclimat",
       "produit": "Logiciel Microclimat Urbain",
-      "version": "1.1.2",
-      "date": "2026-11-01",
-      "titre": "Nouveau logo",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.1.2",
+      "version": "1.2.0",
+      "date": "2026-11-02",
+      "titre": "Projet .T30 : tout le projet dans un seul fichier",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.2.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.1.2/Installer-Logiciel-Microclimat-Urbain-1.1.2.exe",
-        "sha256": "7ad320396dec609177aeede655748a274b2847f15836b6e04da78062f48aa965",
-        "taille": 121886687
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.0/Installer-Logiciel-Microclimat-Urbain-1.2.0.exe",
+        "sha256": "90d18501468895ab170406c0bdd653cecb97de65fa02909be1fd65a51e99eef2",
+        "taille": 121890598
       }
     },
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.5.0",
+      "version": "1.6.0",
       "date": "2026-11-02",
-      "titre": "Serveur MCP : la suite INEX dans Claude",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.5.0",
+      "titre": "Fichiers projet .T30",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.5.0/Installer-INEX-SOFT-1.5.0.exe",
-        "sha256": "e0a6bac461d7b93d7e32db6d14d8472695fede3fa2e349994649a0c86235e26f",
-        "taille": 121256158
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.0/Installer-INEX-SOFT-1.6.0.exe",
+        "sha256": "71d62e5b448cb753ef92f6588c481b968d43c7fdb737050f3302f5217b600a66",
+        "taille": 121270281
       }
     }
   },
-  "maj": "2026-11-02T10:20:59.046Z"
+  "maj": "2026-11-02T11:15:14.786Z"
 }
