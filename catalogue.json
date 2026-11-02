@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.11.1",
+      "version": "1.12.0",
       "date": "2026-11-02",
-      "titre": "Vue 3D fixe pendant le réglage",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.11.1",
+      "titre": "Exporter les résultats depuis Visualiser",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.12.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.11.1/Installer-Logiciel-CFD-OpenFOAM-1.11.1.exe",
-        "sha256": "122d8da876d8b1c820017431d4e5690cac28d03644649bf74c72401b9e578ef8",
-        "taille": 126256542
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.12.0/Installer-Logiciel-CFD-OpenFOAM-1.12.0.exe",
+        "sha256": "72804da11c174ea024707277003d1dde989ff40ee98674862610bb0f71f078f4",
+        "taille": 126259056
       }
     },
     "std": {
@@ -53,5 +53,5 @@
       }
     }
   },
-  "maj": "2026-11-02T13:18:14.564Z"
+  "maj": "2026-11-02T13:40:14.813Z"
 }
