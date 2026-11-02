@@ -42,16 +42,16 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "date": "2026-11-02",
-      "titre": "Animations d'ouverture",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.4.0",
+      "titre": "Serveur MCP : la suite INEX dans Claude",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.5.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.4.0/Installer-INEX-SOFT-1.4.0.exe",
-        "sha256": "87eb2cf5deeb83e7f91a8dcfebeca45f59734363ca49b266cc5f1fd67664b168",
-        "taille": 121248659
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.5.0/Installer-INEX-SOFT-1.5.0.exe",
+        "sha256": "e0a6bac461d7b93d7e32db6d14d8472695fede3fa2e349994649a0c86235e26f",
+        "taille": 121256158
       }
     }
   },
-  "maj": "2026-11-02T10:05:49.929Z"
+  "maj": "2026-11-02T10:20:59.046Z"
 }
