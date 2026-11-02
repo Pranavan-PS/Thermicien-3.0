@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.13.0",
+      "version": "1.13.1",
       "date": "2026-11-02",
-      "titre": "Plancher ouvert, façade rideau, verrières de toute forme",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.13.0",
+      "titre": "Projets .T30 « résultats seuls »",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.13.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.13.0/Installer-Logiciel-CFD-OpenFOAM-1.13.0.exe",
-        "sha256": "c31e4fc6eb35b8481a743c7f1d48ad82175818afc1768079fd825b7c61db3ab2",
-        "taille": 126265365
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.13.1/Installer-Logiciel-CFD-OpenFOAM-1.13.1.exe",
+        "sha256": "ab3e559bd9c56c2823fcf6627778b06ca1e4a3ef36b81ab6de8de6537601bfcc",
+        "taille": 126265551
       }
     },
     "std": {
@@ -53,5 +53,5 @@
       }
     }
   },
-  "maj": "2026-11-02T14:33:57.193Z"
+  "maj": "2026-11-02T15:09:09.838Z"
 }
