@@ -1,0 +1,57 @@
+{
+  "logiciels": {
+    "cfd": {
+      "nom": "Logiciel CFD INEX",
+      "produit": "Logiciel CFD OpenFOAM",
+      "version": "1.9.1",
+      "date": "2026-11-01",
+      "titre": "Nouveau logo",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.9.1",
+      "installeur": {
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.9.1/Installer-Logiciel-CFD-OpenFOAM-1.9.1.exe",
+        "sha256": "f8c1b425ad2f68fcdddd59f450daf655f91e865a260ab4862e094c14b1fe7705",
+        "taille": 126244793
+      }
+    },
+    "std": {
+      "nom": "Logiciel STD INEX",
+      "produit": "Logiciel STD EnergyPlus",
+      "version": "1.0.1",
+      "date": "2026-11-01",
+      "titre": "",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.0.1",
+      "installeur": {
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.0.1/Installer-Logiciel-STD-EnergyPlus-1.0.1.exe",
+        "sha256": "f09fc1a076a08942adc9870554445ecdb1e3567aaae17b2562783485b8a040ff",
+        "taille": 122702021
+      }
+    },
+    "microclimat": {
+      "nom": "Logiciel Microclimat",
+      "produit": "Logiciel Microclimat Urbain",
+      "version": "1.1.2",
+      "date": "2026-11-01",
+      "titre": "Nouveau logo",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.1.2",
+      "installeur": {
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.1.2/Installer-Logiciel-Microclimat-Urbain-1.1.2.exe",
+        "sha256": "7ad320396dec609177aeede655748a274b2847f15836b6e04da78062f48aa965",
+        "taille": 121886687
+      }
+    },
+    "inex-soft": {
+      "nom": "INEX SOFT",
+      "produit": "INEX SOFT",
+      "version": "1.2.0",
+      "date": "2026-11-02",
+      "titre": "Dépôt GitHub de la suite",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.2.0",
+      "installeur": {
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.2.0/Installer-INEX-SOFT-1.2.0.exe",
+        "sha256": "c6b6a933ecb76bcc309a6fb0d9c7fd7db58fb504df6a94fd1d930b18cb9c9fa8",
+        "taille": 121242729
+      }
+    }
+  },
+  "maj": "2026-11-02T09:07:40.206Z"
+}
