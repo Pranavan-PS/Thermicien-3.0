@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.19.1",
+      "version": "1.20.0",
       "date": "2026-11-03",
-      "titre": "Menu Fichier livré par l'installateur",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.19.1",
+      "titre": "Menu Fichier : Nouveau, Ouvrir, Enregistrer, Enregistrer sous",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.20.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.19.1/Installer-Logiciel-CFD-OpenFOAM-1.19.1.exe",
-        "sha256": "fc4709a08d0abd1f56c56551e9e59a132bbce0b3f304d9c453f8691d3906907c",
-        "taille": 126281754
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.20.0/Installer-Logiciel-CFD-OpenFOAM-1.20.0.exe",
+        "sha256": "61ee9e55d3ece0582ba662ec748e8d2aadd0489dc44f6275ed751185d353aaf0",
+        "taille": 126285972
       }
     },
     "std": {
@@ -42,16 +42,16 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.6.1",
+      "version": "1.6.2",
       "date": "2026-11-03",
-      "titre": "Mises à jour sur un poste multisession",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.1",
+      "titre": "Qui utilise quelle version",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.2",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.1/Installer-INEX-SOFT-1.6.1.exe",
-        "sha256": "1b4743c10ce63612c4483fdb114bf6a1ec4872e00914bd5aa4bfc10a414bada7",
-        "taille": 121271011
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.2/Installer-INEX-SOFT-1.6.2.exe",
+        "sha256": "2ef0881670a516bbe182a5ba7da2aa86a696b52cb5aca597c885eab37ab776d3",
+        "taille": 121272805
       }
     }
   },
-  "maj": "2026-11-03T14:59:05.203Z"
+  "maj": "2026-11-03T17:02:44.383Z"
 }
