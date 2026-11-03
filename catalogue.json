@@ -42,16 +42,16 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.6.0",
-      "date": "2026-11-02",
-      "titre": "Fichiers projet .T30",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.0",
+      "version": "1.6.1",
+      "date": "2026-11-03",
+      "titre": "Mises à jour sur un poste multisession",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.0/Installer-INEX-SOFT-1.6.0.exe",
-        "sha256": "71d62e5b448cb753ef92f6588c481b968d43c7fdb737050f3302f5217b600a66",
-        "taille": 121270281
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.1/Installer-INEX-SOFT-1.6.1.exe",
+        "sha256": "1b4743c10ce63612c4483fdb114bf6a1ec4872e00914bd5aa4bfc10a414bada7",
+        "taille": 121271011
       }
     }
   },
-  "maj": "2026-11-03T13:32:13.817Z"
+  "maj": "2026-11-03T14:59:05.203Z"
 }
