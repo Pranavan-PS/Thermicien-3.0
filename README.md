@@ -6,7 +6,7 @@ Installateurs de la suite logicielle INEX (pôle calcul INEX BET).
 
 | Logiciel | Version | Date | Téléchargement |
 |---|---|---|---|
-| Logiciel CFD INEX | 1.18.0 | 2026-11-03 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.18.0/Installer-Logiciel-CFD-OpenFOAM-1.18.0.exe) |
+| Logiciel CFD INEX | 1.19.0 | 2026-11-03 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.19.0/Installer-Logiciel-CFD-OpenFOAM-1.19.0.exe) |
 | Logiciel STD INEX | 1.1.0 | 2026-11-02 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.1.0/Installer-Logiciel-STD-EnergyPlus-1.1.0.exe) |
 | Logiciel Microclimat | 1.2.1 | 2026-11-02 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.1/Installer-Logiciel-Microclimat-Urbain-1.2.1.exe) |
 | INEX SOFT | 1.6.0 | 2026-11-02 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.0/Installer-INEX-SOFT-1.6.0.exe) |
