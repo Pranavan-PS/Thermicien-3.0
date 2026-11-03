@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.19.0",
+      "version": "1.19.1",
       "date": "2026-11-03",
-      "titre": "Menu Fichier : ouvrir un projet, un zip ou un gbXML",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.19.0",
+      "titre": "Menu Fichier livré par l'installateur",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.19.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.19.0/Installer-Logiciel-CFD-OpenFOAM-1.19.0.exe",
-        "sha256": "6e2e1c5754244e5a8a08531b1573bae7c260a20d8ab8e984f7412d4560d2d5bf",
-        "taille": 126282006
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.19.1/Installer-Logiciel-CFD-OpenFOAM-1.19.1.exe",
+        "sha256": "fc4709a08d0abd1f56c56551e9e59a132bbce0b3f304d9c453f8691d3906907c",
+        "taille": 126281754
       }
     },
     "std": {
@@ -53,5 +53,5 @@
       }
     }
   },
-  "maj": "2026-11-03T13:26:52.390Z"
+  "maj": "2026-11-03T13:32:13.817Z"
 }
