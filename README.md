@@ -6,9 +6,9 @@ Installateurs de la suite logicielle INEX (pôle calcul INEX BET).
 
 | Logiciel | Version | Date | Téléchargement |
 |---|---|---|---|
-| Logiciel CFD INEX | 1.21.0 | 2026-11-03 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.21.0/Installer-Logiciel-CFD-OpenFOAM-1.21.0.exe) |
+| Logiciel CFD INEX | 1.22.0 | 2026-11-04 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.22.0/Installer-Logiciel-CFD-OpenFOAM-1.22.0.exe) |
 | Logiciel STD INEX | 1.1.0 | 2026-11-02 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.1.0/Installer-Logiciel-STD-EnergyPlus-1.1.0.exe) |
 | Logiciel Microclimat | 1.2.1 | 2026-11-02 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.1/Installer-Logiciel-Microclimat-Urbain-1.2.1.exe) |
-| INEX SOFT | 1.6.2 | 2026-11-03 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.2/Installer-INEX-SOFT-1.6.2.exe) |
+| INEX SOFT | 1.6.3 | 2026-11-04 | [Installateur](https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.3/Installer-INEX-SOFT-1.6.3.exe) |
 
 Le fichier catalogue.json est lu par INEX SOFT à chaque ouverture. Ne pas le modifier à la main : il est tenu à jour par publier-github.js.
