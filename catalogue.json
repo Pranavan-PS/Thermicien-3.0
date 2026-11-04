@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.21.0",
-      "date": "2026-11-03",
-      "titre": "Brasseurs d'air",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.21.0",
+      "version": "1.22.0",
+      "date": "2026-11-04",
+      "titre": "Poste partagé : chaque session ne voit que son logiciel",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.22.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.21.0/Installer-Logiciel-CFD-OpenFOAM-1.21.0.exe",
-        "sha256": "cb76a64614fcf14b4fa9442dcb4625fb06c43b78c270f41e7393364492ddee53",
-        "taille": 126290186
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.22.0/Installer-Logiciel-CFD-OpenFOAM-1.22.0.exe",
+        "sha256": "7ccea1eae1c6c3591ba700fb98c71a66b8a2b5e4345bcda41562c57f7edd3943",
+        "taille": 126292065
       }
     },
     "std": {
@@ -42,16 +42,16 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.6.2",
-      "date": "2026-11-03",
-      "titre": "Qui utilise quelle version",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.2",
+      "version": "1.6.3",
+      "date": "2026-11-04",
+      "titre": "Outils Claude : seulement les logiciels de votre session",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.3",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.2/Installer-INEX-SOFT-1.6.2.exe",
-        "sha256": "2ef0881670a516bbe182a5ba7da2aa86a696b52cb5aca597c885eab37ab776d3",
-        "taille": 121272805
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.3/Installer-INEX-SOFT-1.6.3.exe",
+        "sha256": "7999cc07f9b951bb9bbe3c8630d7cd71e89c99009fefa1b920766fed1b6d0508",
+        "taille": 121273373
       }
     }
   },
-  "maj": "2026-11-03T18:04:04.528Z"
+  "maj": "2026-11-04T08:59:19.501Z"
 }
