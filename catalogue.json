@@ -55,16 +55,16 @@
     "ensoleillement": {
       "nom": "Logiciel Ensoleillement",
       "produit": "Logiciel Ensoleillement",
-      "version": "1.0.1",
+      "version": "1.1.0",
       "date": "2026-11-05",
-      "titre": "Plus de raccourci sur le bureau",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.0.1",
+      "titre": "Cartographie solaire de la maquette et végétation",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.1.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.0.1/Installer-Logiciel-Ensoleillement-1.0.1.exe",
-        "sha256": "1e559cd7fef24cc27e4d5aae84fbd1eabd85db6e7419933eae20bdd5d40b83e5",
-        "taille": 121384077
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.1.0/Installer-Logiciel-Ensoleillement-1.1.0.exe",
+        "sha256": "233979a81cdf6265bd2e826ccf39cd7ff57d7d879ecd3fe05b861b010194f1d7",
+        "taille": 121392526
       }
     }
   },
-  "maj": "2026-11-05T14:31:11.254Z"
+  "maj": "2026-11-05T18:21:27.079Z"
 }
