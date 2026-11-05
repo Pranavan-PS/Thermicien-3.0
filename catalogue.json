@@ -16,14 +16,14 @@
     "std": {
       "nom": "Logiciel STD INEX",
       "produit": "Logiciel STD EnergyPlus",
-      "version": "1.1.0",
-      "date": "2026-11-02",
-      "titre": "",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.1.0",
+      "version": "1.2.0",
+      "date": "2026-11-05",
+      "titre": "Rayonnement entre locaux : vitrages intérieurs et volumes ouverts",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.2.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.1.0/Installer-Logiciel-STD-EnergyPlus-1.1.0.exe",
-        "sha256": "92faafab56dcf15705e2fa975f78c073d6b4af54fefc4d86ffab70a7cc34f183",
-        "taille": 122705524
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.2.0/Installer-Logiciel-STD-EnergyPlus-1.2.0.exe",
+        "sha256": "4983d43f94c06c3ce920386f430938c6be22f32e93d51ee176651e8dc22e8228",
+        "taille": 122708148
       }
     },
     "microclimat": {
@@ -53,5 +53,5 @@
       }
     }
   },
-  "maj": "2026-11-05T07:55:10.475Z"
+  "maj": "2026-11-05T13:29:39.150Z"
 }
