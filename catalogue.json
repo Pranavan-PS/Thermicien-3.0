@@ -3,40 +3,40 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.24.0",
-      "date": "2026-11-04",
-      "titre": "Vent extérieur : confort des piétons et Cp des façades",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.24.0",
+      "version": "1.25.1",
+      "date": "2026-11-05",
+      "titre": "Plus de raccourci sur le bureau",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.25.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.24.0/Installer-Logiciel-CFD-OpenFOAM-1.24.0.exe",
-        "sha256": "ac17ca87592fe8648077eea23e7c5143d9f3b78e7a5fac2de62fce43b93a3698",
-        "taille": 126310326
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.25.1/Installer-Logiciel-CFD-OpenFOAM-1.25.1.exe",
+        "sha256": "25df1ff50ac5f1a21a959c3d87264cfec39d77307d266b9477a6f5b9ebc379a8",
+        "taille": 126313396
       }
     },
     "std": {
       "nom": "Logiciel STD INEX",
       "produit": "Logiciel STD EnergyPlus",
-      "version": "1.2.0",
+      "version": "1.2.1",
       "date": "2026-11-05",
-      "titre": "Rayonnement entre locaux : vitrages intérieurs et volumes ouverts",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.2.0",
+      "titre": "Plus de raccourci sur le bureau",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.2.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.2.0/Installer-Logiciel-STD-EnergyPlus-1.2.0.exe",
-        "sha256": "4983d43f94c06c3ce920386f430938c6be22f32e93d51ee176651e8dc22e8228",
-        "taille": 122708148
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.2.1/Installer-Logiciel-STD-EnergyPlus-1.2.1.exe",
+        "sha256": "cd3ea90e68ec6e2dacb13aa7d5c586659a79e8bc5671dea77f46e2a342a7a556",
+        "taille": 122708707
       }
     },
     "microclimat": {
       "nom": "Logiciel Microclimat",
       "produit": "Logiciel Microclimat Urbain",
-      "version": "1.2.1",
-      "date": "2026-11-02",
-      "titre": "Moteur installable sur un poste sans Python",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.2.1",
+      "version": "1.2.2",
+      "date": "2026-11-05",
+      "titre": "Plus de raccourci sur le bureau",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/microclimat-v1.2.2",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.1/Installer-Logiciel-Microclimat-Urbain-1.2.1.exe",
-        "sha256": "7800eb0ab3dacce250a06259a3b3b45cb9ec1aaaa9c5e8490b2406519e4c297f",
-        "taille": 121891437
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/microclimat-v1.2.2/Installer-Logiciel-Microclimat-Urbain-1.2.2.exe",
+        "sha256": "be883f62bfde234bb17102671b1a01cfd8cf51e3c21c6ec2157eaf8b426744f7",
+        "taille": 121891497
       }
     },
     "inex-soft": {
@@ -55,16 +55,16 @@
     "ensoleillement": {
       "nom": "Logiciel Ensoleillement",
       "produit": "Logiciel Ensoleillement",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "date": "2026-11-05",
-      "titre": "",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.0.0",
+      "titre": "Plus de raccourci sur le bureau",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.0.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.0.0/Installer-Logiciel-Ensoleillement-1.0.0.exe",
-        "sha256": "cc35d1ee444f80ade1666978e84ed97a2d08e914e321d068afdf711d967f6fa8",
-        "taille": 121383861
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.0.1/Installer-Logiciel-Ensoleillement-1.0.1.exe",
+        "sha256": "1e559cd7fef24cc27e4d5aae84fbd1eabd85db6e7419933eae20bdd5d40b83e5",
+        "taille": 121384077
       }
     }
   },
-  "maj": "2026-11-05T14:01:55.676Z"
+  "maj": "2026-11-05T14:31:11.254Z"
 }
