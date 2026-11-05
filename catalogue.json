@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.23.0",
+      "version": "1.24.0",
       "date": "2026-11-04",
-      "titre": "Afficher seulement certaines valeurs (2D et 3D)",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.23.0",
+      "titre": "Vent extérieur : confort des piétons et Cp des façades",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.24.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.23.0/Installer-Logiciel-CFD-OpenFOAM-1.23.0.exe",
-        "sha256": "dc2d9b71e38391b57c0534dfe73b8d6b5ab041017bd192e8abd34ac0d0759d36",
-        "taille": 126292693
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.24.0/Installer-Logiciel-CFD-OpenFOAM-1.24.0.exe",
+        "sha256": "ac17ca87592fe8648077eea23e7c5143d9f3b78e7a5fac2de62fce43b93a3698",
+        "taille": 126310326
       }
     },
     "std": {
@@ -53,5 +53,5 @@
       }
     }
   },
-  "maj": "2026-11-04T09:57:13.586Z"
+  "maj": "2026-11-05T07:55:10.475Z"
 }
