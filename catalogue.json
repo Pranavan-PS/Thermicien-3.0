@@ -42,16 +42,29 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.6.3",
-      "date": "2026-11-04",
-      "titre": "Outils Claude : seulement les logiciels de votre session",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.6.3",
+      "version": "1.7.0",
+      "date": "2026-11-05",
+      "titre": "Nouveau logiciel : Ensoleillement",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.7.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.6.3/Installer-INEX-SOFT-1.6.3.exe",
-        "sha256": "7999cc07f9b951bb9bbe3c8630d7cd71e89c99009fefa1b920766fed1b6d0508",
-        "taille": 121273373
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.7.0/Installer-INEX-SOFT-1.7.0.exe",
+        "sha256": "5d779cf37050ed410a065692832bf333da330dfa21df018e6bebc0089f6461de",
+        "taille": 121274604
+      }
+    },
+    "ensoleillement": {
+      "nom": "Logiciel Ensoleillement",
+      "produit": "Logiciel Ensoleillement",
+      "version": "1.0.0",
+      "date": "2026-11-05",
+      "titre": "",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.0.0",
+      "installeur": {
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.0.0/Installer-Logiciel-Ensoleillement-1.0.0.exe",
+        "sha256": "cc35d1ee444f80ade1666978e84ed97a2d08e914e321d068afdf711d967f6fa8",
+        "taille": 121383861
       }
     }
   },
-  "maj": "2026-11-05T13:29:39.150Z"
+  "maj": "2026-11-05T14:01:55.676Z"
 }
