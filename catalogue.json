@@ -42,14 +42,14 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.7.1",
+      "version": "1.7.2",
       "date": "2026-11-06",
-      "titre": "Tutoriel vidéo du logiciel CFD",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.7.1",
+      "titre": "Fenêtre ajustée au lancement",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.7.2",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.7.1/Installer-INEX-SOFT-1.7.1.exe",
-        "sha256": "db6d86f2cc820bc705b3d39cad8837c21ae94e41eaf3ad5e6990b49613a50cd5",
-        "taille": 121275219
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.7.2/Installer-INEX-SOFT-1.7.2.exe",
+        "sha256": "67a52a15430571bb6d812aaf16d8d1ebc2a10ec8aa5d47f07f2be9ab9da7ce52",
+        "taille": 121276069
       }
     },
     "ensoleillement": {
@@ -66,5 +66,5 @@
       }
     }
   },
-  "maj": "2026-11-06T10:35:41.950Z"
+  "maj": "2026-11-06T10:43:54.072Z"
 }
