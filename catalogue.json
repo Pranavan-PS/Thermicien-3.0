@@ -55,16 +55,16 @@
     "ensoleillement": {
       "nom": "Logiciel Ensoleillement",
       "produit": "Logiciel Ensoleillement",
-      "version": "1.2.0",
-      "date": "2026-11-05",
-      "titre": "Rayonnement reçu sur toute la maquette et le sol",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.2.0",
+      "version": "1.3.0",
+      "date": "2026-11-06",
+      "titre": "Maquette importée depuis une adresse",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.3.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.2.0/Installer-Logiciel-Ensoleillement-1.2.0.exe",
-        "sha256": "c16e3a9e3c4f70e1740c91b71f9577f11aca4998be797843cdab831832d4623f",
-        "taille": 121393470
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.3.0/Installer-Logiciel-Ensoleillement-1.3.0.exe",
+        "sha256": "594545ea0dc39beb18353dc150c0bb7d7e0a96c87be3ce54902f54d31b8aa614",
+        "taille": 121399727
       }
     }
   },
-  "maj": "2026-11-06T08:02:09.127Z"
+  "maj": "2026-11-06T09:24:46.313Z"
 }
