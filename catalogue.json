@@ -55,16 +55,16 @@
     "ensoleillement": {
       "nom": "Logiciel Ensoleillement",
       "produit": "Logiciel Ensoleillement",
-      "version": "1.4.0",
+      "version": "1.5.0",
       "date": "2026-11-06",
-      "titre": "L'adresse suffit",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.4.0",
+      "titre": "Bâtiments modifiables en 3D",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/ensoleillement-v1.5.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.4.0/Installer-Logiciel-Ensoleillement-1.4.0.exe",
-        "sha256": "8dca479fb1d1067e0a3bd6639be27116db4e15780e58a2c292c9c4ec398495e8",
-        "taille": 121404935
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/ensoleillement-v1.5.0/Installer-Logiciel-Ensoleillement-1.5.0.exe",
+        "sha256": "9580de8060dfc65d8f8d722f4ff6521d5d2499ec6906f55f675a390777badc50",
+        "taille": 121409687
       }
     }
   },
-  "maj": "2026-11-06T10:06:48.053Z"
+  "maj": "2026-11-06T10:35:41.950Z"
 }
