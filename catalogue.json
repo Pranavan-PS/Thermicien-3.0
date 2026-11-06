@@ -16,14 +16,14 @@
     "std": {
       "nom": "Logiciel STD INEX",
       "produit": "Logiciel STD EnergyPlus",
-      "version": "1.3.0",
-      "date": "2026-11-05",
-      "titre": "Masse interne : mobilier et cloisons intérieures",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.3.0",
+      "version": "1.4.0",
+      "date": "2026-11-06",
+      "titre": "Ouvrants : ventilation naturelle par fenêtre",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.4.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.3.0/Installer-Logiciel-STD-EnergyPlus-1.3.0.exe",
-        "sha256": "21900f2df4483e23dadf6f3aaadea7e7d0745e1afcb981a98f93657306768de8",
-        "taille": 122710078
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.4.0/Installer-Logiciel-STD-EnergyPlus-1.4.0.exe",
+        "sha256": "966e41c700db8fdebe2ccea50e388c4de6a51e591e4e14216c228f57e0562bbd",
+        "taille": 122713537
       }
     },
     "microclimat": {
@@ -66,5 +66,5 @@
       }
     }
   },
-  "maj": "2026-11-06T10:43:54.072Z"
+  "maj": "2026-11-06T14:07:09.593Z"
 }
