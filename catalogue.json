@@ -16,14 +16,14 @@
     "std": {
       "nom": "Logiciel STD INEX",
       "produit": "Logiciel STD EnergyPlus",
-      "version": "1.5.0",
-      "date": "2026-11-06",
-      "titre": "Réseau aéraulique multizone et export gbXML pour Pléiades",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.5.0",
+      "version": "1.6.0",
+      "date": "2026-11-07",
+      "titre": "Bibliothèque façon Pléiades : scénarios, compositions, menuiseries, protections, ouvertures",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/std-v1.6.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.5.0/Installer-Logiciel-STD-EnergyPlus-1.5.0.exe",
-        "sha256": "cfe631edd2c4e27258b1fe8123f26fc314f91409149c9298797f511bb7b58500",
-        "taille": 122724822
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/std-v1.6.0/Installer-Logiciel-STD-EnergyPlus-1.6.0.exe",
+        "sha256": "82cec381bccf2370c8b0b33cf4d20afcf297934752a196c7bd7cfbef2c457210",
+        "taille": 122739484
       }
     },
     "microclimat": {
@@ -66,5 +66,5 @@
       }
     }
   },
-  "maj": "2026-11-07T10:19:31.990Z"
+  "maj": "2026-11-09T08:09:29.869Z"
 }
