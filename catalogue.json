@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.25.3",
-      "date": "2026-11-06",
-      "titre": "Parois déperditives saisies en Up",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.25.3",
+      "version": "1.26.0",
+      "date": "2026-11-07",
+      "titre": "Modèle écrit par Claude",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.26.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.25.3/Installer-Logiciel-CFD-OpenFOAM-1.25.3.exe",
-        "sha256": "cba6d1557dbe33eb446c4a1fc2ea4bbf2913c0caabb5364c678b210d8f9ea128",
-        "taille": 126315036
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.26.0/Installer-Logiciel-CFD-OpenFOAM-1.26.0.exe",
+        "sha256": "e7c4ae743f1a7a05e70eb7cb876af8d539bb252023184a9433fe6e8762d31993",
+        "taille": 126318221
       }
     },
     "std": {
@@ -42,14 +42,14 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.7.2",
-      "date": "2026-11-06",
-      "titre": "Fenêtre ajustée au lancement",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.7.2",
+      "version": "1.8.0",
+      "date": "2026-11-07",
+      "titre": "Claude dessine le modèle CFD",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.8.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.7.2/Installer-INEX-SOFT-1.7.2.exe",
-        "sha256": "67a52a15430571bb6d812aaf16d8d1ebc2a10ec8aa5d47f07f2be9ab9da7ce52",
-        "taille": 121276069
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.8.0/Installer-INEX-SOFT-1.8.0.exe",
+        "sha256": "6659bac65f2b378516773d9f8b1af92812b4f81b13fbd1bad03f439286690ab2",
+        "taille": 121279908
       }
     },
     "ensoleillement": {
@@ -66,5 +66,5 @@
       }
     }
   },
-  "maj": "2026-11-09T08:09:29.869Z"
+  "maj": "2026-11-09T16:47:12.463Z"
 }
