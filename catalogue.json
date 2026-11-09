@@ -42,14 +42,14 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.8.0",
-      "date": "2026-11-07",
-      "titre": "Claude dessine le modèle CFD",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.8.0",
+      "version": "1.9.0",
+      "date": "2026-11-09",
+      "titre": "Nouveau module : Logiciel Export gbXML",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.9.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.8.0/Installer-INEX-SOFT-1.8.0.exe",
-        "sha256": "6659bac65f2b378516773d9f8b1af92812b4f81b13fbd1bad03f439286690ab2",
-        "taille": 121279908
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.9.0/Installer-INEX-SOFT-1.9.0.exe",
+        "sha256": "50e073bb58ab024e59ba5f05afd5535d741625c83f8a9a7afc38e9459e87e28c",
+        "taille": 121284595
       }
     },
     "ensoleillement": {
@@ -64,7 +64,20 @@
         "sha256": "9580de8060dfc65d8f8d722f4ff6521d5d2499ec6906f55f675a390777badc50",
         "taille": 121409687
       }
+    },
+    "gbxml": {
+      "nom": "Logiciel Export gbXML",
+      "produit": "Logiciel Export gbXML",
+      "version": "1.0.0",
+      "date": "2026-11-09",
+      "titre": "",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/gbxml-v1.0.0",
+      "installeur": {
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/gbxml-v1.0.0/Installer-Logiciel-Export-gbXML-1.0.0.exe",
+        "sha256": "825bf1eb7f49b1e19a6e5c48a060c6a36b04bf9763ca875060e897d815816cff",
+        "taille": 122794313
+      }
     }
   },
-  "maj": "2026-11-09T16:47:12.463Z"
+  "maj": "2026-11-09T17:25:50.794Z"
 }
