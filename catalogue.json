@@ -42,14 +42,14 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.9.0",
-      "date": "2026-11-09",
-      "titre": "Nouveau module : Logiciel Export gbXML",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.9.0",
+      "version": "1.10.0",
+      "date": "2026-11-10",
+      "titre": "Claude importe les maquettes IFC",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.10.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.9.0/Installer-INEX-SOFT-1.9.0.exe",
-        "sha256": "50e073bb58ab024e59ba5f05afd5535d741625c83f8a9a7afc38e9459e87e28c",
-        "taille": 121284595
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.10.0/Installer-INEX-SOFT-1.10.0.exe",
+        "sha256": "e463da184bdcbf0ed2dd11af371043344f5796f2a2b5e77f6b20efc9e52ab714",
+        "taille": 121285480
       }
     },
     "ensoleillement": {
@@ -68,16 +68,16 @@
     "gbxml": {
       "nom": "Logiciel Export gbXML",
       "produit": "Logiciel Export gbXML",
-      "version": "1.0.0",
-      "date": "2026-11-09",
-      "titre": "",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/gbxml-v1.0.0",
+      "version": "1.1.0",
+      "date": "2026-11-10",
+      "titre": "Import de maquettes IFC (Revit, ArchiCAD)",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/gbxml-v1.1.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/gbxml-v1.0.0/Installer-Logiciel-Export-gbXML-1.0.0.exe",
-        "sha256": "825bf1eb7f49b1e19a6e5c48a060c6a36b04bf9763ca875060e897d815816cff",
-        "taille": 122794313
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/gbxml-v1.1.0/Installer-Logiciel-Export-gbXML-1.1.0.exe",
+        "sha256": "afefed8fdddff836e6d93f21d6917d664b4a93d352600daf6215906abb3da900",
+        "taille": 122808975
       }
     }
   },
-  "maj": "2026-11-10T16:23:09.442Z"
+  "maj": "2026-11-10T16:45:21.070Z"
 }
