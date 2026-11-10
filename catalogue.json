@@ -3,14 +3,14 @@
     "cfd": {
       "nom": "Logiciel CFD INEX",
       "produit": "Logiciel CFD OpenFOAM",
-      "version": "1.27.0",
+      "version": "1.28.0",
       "date": "2026-11-10",
-      "titre": "Éléments du modèle sur les résultats",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.27.0",
+      "titre": "Lignes de courant en tubes 3D, rendu de présentation",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/cfd-v1.28.0",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.27.0/Installer-Logiciel-CFD-OpenFOAM-1.27.0.exe",
-        "sha256": "91d6a59911a53bc43d955f24c8c3c3131199443055be4dde7c9a223c2dd85429",
-        "taille": 126327098
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/cfd-v1.28.0/Installer-Logiciel-CFD-OpenFOAM-1.28.0.exe",
+        "sha256": "57b2c38e3495b901e0495f337eb9676ed0e06cb93947002aa27a23a570016eb3",
+        "taille": 126332515
       }
     },
     "std": {
@@ -79,5 +79,5 @@
       }
     }
   },
-  "maj": "2026-11-10T14:41:46.133Z"
+  "maj": "2026-11-10T16:13:35.846Z"
 }
