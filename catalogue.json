@@ -42,14 +42,14 @@
     "inex-soft": {
       "nom": "INEX SOFT",
       "produit": "INEX SOFT",
-      "version": "1.10.0",
+      "version": "1.10.1",
       "date": "2026-11-10",
-      "titre": "Claude importe les maquettes IFC",
-      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.10.0",
+      "titre": "Mise à jour bloquée : le programme à fermer est nommé",
+      "page": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/tag/inex-soft-v1.10.1",
       "installeur": {
-        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.10.0/Installer-INEX-SOFT-1.10.0.exe",
-        "sha256": "e463da184bdcbf0ed2dd11af371043344f5796f2a2b5e77f6b20efc9e52ab714",
-        "taille": 121285480
+        "url": "https://github.com/Pranavan-PS/Thermicien-3.0/releases/download/inex-soft-v1.10.1/Installer-INEX-SOFT-1.10.1.exe",
+        "sha256": "a772df5da457ad308468dfedab8c97044fef39f9abb2622e59ff1fb7b80f8c5a",
+        "taille": 121287374
       }
     },
     "ensoleillement": {
@@ -79,5 +79,5 @@
       }
     }
   },
-  "maj": "2026-11-10T16:45:21.070Z"
+  "maj": "2026-11-10T17:22:34.051Z"
 }
